@@ -8,7 +8,7 @@
 	<center>
 		<h1>Home Page</h1>
 		<hr>
-		<form action="">
+		<form action="signinprocess.php" method="post">
 			User name :<input type="text" name="uname">
 			<br>
 			Password: <input type="password" name="upassword">
